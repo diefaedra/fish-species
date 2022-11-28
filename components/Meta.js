@@ -81,7 +81,7 @@ export default function Meta(props) {
         content="/assets/ms-icon-144x144.png"
       />
       <meta name="theme-color" content="#ffffff" />
-      <meta name="description" content="See some beautiful fish species!" />
+      <meta name="description" content="Explore a list of beautiful fish species" />
     </Head>
   );
 }
