@@ -33,7 +33,7 @@ export default function About() {
                   <p className="text-base">
                     Undergraduate student of Computer Engineering,
                     <br />
-                    Diponegoro University
+                    Diponegoro University.
                   </p>
                 </div>
               </div>
